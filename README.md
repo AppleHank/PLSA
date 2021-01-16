@@ -3,6 +3,7 @@
 第一是要如何將機率的概念寫為程式碼，例如EM algorithm中需要設置兩個變數，分別為
 
 三維陣列![image](https://github.com/AppleHank/Image/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-01-16%20170148.jpg?raw=true)
+
 二維陣列![image](https://github.com/AppleHank/Image/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-01-16%20170338.jpg?raw=true)
 
 其中Tk是我們自己指定的topic數量，Wi是所有document的vocabulary中的第i個word，Dj為第j篇document。
